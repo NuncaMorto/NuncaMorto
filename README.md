@@ -17,6 +17,7 @@ HTML - ✦✦✦✧✧ <br>
 CSS - ✦✦✧✧✧ <br>
 JavaScript - ✦✦✧✧✧ <br>
 Java - ✦✦✧✧✧ <br>
+Kotlin - ✦✧✧✧✧ <br>
 React - ✦✧✧✧✧ <br>
 
 <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" hspace = "10">
@@ -24,6 +25,7 @@ React - ✦✧✧✧✧ <br>
 <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" hspace = "10">
 <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white" hspace = "10">
 <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" hspace = "10">
+<img src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" hspace = "10">
   
 </div> 
 
