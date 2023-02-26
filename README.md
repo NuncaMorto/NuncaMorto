@@ -2,14 +2,7 @@
 
 <img height = "200em" width = "1000em" align = "center" src = "https://github-readme-stats.vercel.app/api?username=NuncaMorto&count_private=true&show_icons=true&icon_color=774ede&title_color=6200ff&text_color=4802f7&bg_color=000000&border_radius=15px&border_color=4802f7"/>
 
-<hr class="rounded"/>
-
-
 <div style = "inline-block" align = "left">
-  
-- Estudante de Automação Industrial no IFMG. <br>
-  
-- Java e WebDev. <br>
  
 ## Stacks
 
